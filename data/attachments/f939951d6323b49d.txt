@@ -1,0 +1,7 @@
+[2026-10-04 14:30:54,080 | INFO] New browser context created
+[2026-10-04 14:30:54,110 | INFO] New page created
+[2026-10-04 14:30:54,111 | INFO] TEST: test_login_wrong_password started
+[2026-10-04 14:30:54,111 | INFO] LoginPage: navigate to 'https://kartochki.store'
+[2026-10-04 14:30:54,602 | INFO] Page closed
+[2026-10-04 14:30:54,607 | INFO] Browser context closed
+[2026-10-04 14:30:54,628 | INFO] Browser closed
